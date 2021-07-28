@@ -1,0 +1,26 @@
+﻿Vehicle Enquiry + Vehicle Creation Screens
+
+Head of Sales want to be able to search for a vehicle so Dealers can check options associated with the Vehicle
+---Vehicle Should be searchable via chassis number
+-------Dev Note -- Simple table created for Vehicles created already in Database.mdf
+
+Head of Engineering want to be able to store vehicle colour options to allow for more secure backup of options removing need for excel on lead engineers PC
+---Colour can be any description, examples include "Sunburst Yellow", "Black", "Ultramarine Blue"
+
+Head of Engineering want to be able to update colour description in case of error on initial add
+
+Head of Engineering want to be able to store vehicle gearbox options to allow for more secure backup of options removing need for excel on lead engineers PC
+---Gearbox has to be manual or automatic
+
+Head of Engineering want to be able to store vehicle car type to allow for more secure backup of options removing need for excel on lead engineers PC
+---Current Vehicles are: "DB11", "Vantage", "DBS", "Valkyrie"
+---Future Models will need to be possible to be added in the future
+
+Head of Engineering want to be able to delete colours from the secure locations so that when a colour is no longer wanted it is unselectable as a vehicle option
+--------Dev Note -- Careful that vehicles with colour already selected is not orphaned.
+
+Head of Sales want to be able to add a colour to a new car being specified by a customer
+
+Head of Sales want to be able to add a car type to a new car being specified by a customer
+
+Head of Sales want to be able to add a gearbox to a new car being specified by a customer

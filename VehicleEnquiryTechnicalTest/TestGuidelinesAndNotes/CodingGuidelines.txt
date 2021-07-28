@@ -1,0 +1,15 @@
+﻿Pages should be built using C# MVC
+
+Use Entity Framework to talk to Database.mdf included in the App_Data folder, A Basic Vehicle Table has been created with some data rows.
+
+Entity Framework code should be written by yourself and not wizard generated.
+
+Create Database objects as you see fit. i.e. Create new tables, Extend vehicle table
+
+Code should be readable by future developers
+
+Do not worry about presentation of HTML Pages. This test is not designed to test your styling capability
+
+This test will check your ability to use Entity Framework for database interrogation including full CRUD operations. MVC coding style using HTML and C# 
+
+Test should take no more than 3 hours.

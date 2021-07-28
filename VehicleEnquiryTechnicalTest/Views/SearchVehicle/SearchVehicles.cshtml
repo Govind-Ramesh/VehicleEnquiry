@@ -1,0 +1,66 @@
+﻿@model IEnumerable<VehicleEnquiryTechnicalTest.ViewModels.VehicleDetails>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<h3>Search Vehicle</h3>
+<p>
+
+    @using (
+        Html.BeginForm("SearchVehicles", "SearchVehicle"))
+    {
+        <input id="SearchBox" type="text" name="chassisNumber" />
+        <input id="submit" type="submit" value="Search" />
+    }
+</p>
+
+<br />
+<br />
+@if (Model != null)
+{
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Chassis)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CarType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Colour)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GearBox)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateCreated)
+            </th>
+        </tr>
+        <tr>
+
+            @foreach (var item in Model)
+            {
+                <th>
+                    @Html.DisplayFor(modelItem => item.Chassis)
+                </th>
+                <th>
+                    @Html.DisplayFor(modelItem => item.CarType)
+                </th>
+                <th>
+                    @Html.DisplayFor(modelItem => item.Colour)
+                </th>
+                <th>
+                    @Html.DisplayFor(modelItem => item.GearBox)
+                </th>
+                <th>
+                    @Html.DisplayFor(modelItem => item.DateCreated)
+                </th>
+
+            }
+
+        </tr>
+    </table>
+}

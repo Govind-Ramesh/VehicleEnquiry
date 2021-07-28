@@ -1,0 +1,34 @@
+﻿@model IEnumerable<VehicleEnquiryTechnicalTest.Models.TblColours>
+
+@{
+    ViewBag.Title = "Colour";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Colour</h2>
+
+<p>
+    @Html.ActionLink("Create New", "ColourCreate")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Colours)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Colours)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "ColourEdit", new { id=item.ID }) |
+            @*@Html.ActionLink("Details", "ColourDetails", new { id=item.ID }) |*@
+            @Html.ActionLink("Delete", "ColourDelete", new { id=item.ID })
+        </td>
+    </tr>
+}
+
+</table>

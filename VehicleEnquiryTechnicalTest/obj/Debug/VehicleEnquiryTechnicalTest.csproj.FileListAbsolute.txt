@@ -1,0 +1,474 @@
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\ApplicationInsights.config
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\VehicleEnquiryTechnicalTest.dll.config
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\VehicleEnquiryTechnicalTest.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\VehicleEnquiryTechnicalTest.pdb
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\csc.exe
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\csc.exe.config
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\csc.rsp
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\csi.exe
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\csi.exe.config
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\csi.rsp
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.AppContext.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Console.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.IO.Compression.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Security.Claims.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Threading.Thread.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.ValueTuple.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\vbc.exe
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\vbc.exe.config
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\vbc.rsp
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Antlr3.Runtime.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.Web.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Newtonsoft.Json.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Helpers.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Mvc.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Optimization.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Razor.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.WebPages.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\WebGrease.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Helpers.xml
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Mvc.xml
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Optimization.xml
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Razor.xml
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.WebPages.xml
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Antlr3.Runtime.pdb
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Newtonsoft.Json.xml
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.Web.xml
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\obj\Debug\VehicleEnquiryTechnicalTest.csprojResolveAssemblyReference.cache
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\obj\Debug\VehicleEnquiryTechnicalTest.csproj.CoreCompileInputs.cache
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\obj\Debug\VehicleEnquiryTechnicalTest.csproj.CopyComplete
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\obj\Debug\VehicleEnquiryTechnicalTest.dll
+C:\Users\mrandall\source\repos\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\obj\Debug\VehicleEnquiryTechnicalTest.pdb
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\ApplicationInsights.config
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\VehicleEnquiryTechnicalTest.dll.config
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\VehicleEnquiryTechnicalTest.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\VehicleEnquiryTechnicalTest.pdb
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\csc.exe
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\csc.exe.config
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\csc.rsp
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\csi.exe
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\csi.exe.config
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\csi.rsp
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.Managed.Core.targets
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.AppContext.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Collections.Immutable.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Console.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Globalization.Calendars.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.IO.Compression.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.IO.FileSystem.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Net.Http.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Net.Sockets.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Reflection.Metadata.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.ValueTuple.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Xml.XmlDocument.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Xml.XPath.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\vbc.exe
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\vbc.exe.config
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\vbc.rsp
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\VBCSCompiler.exe
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\VBCSCompiler.exe.config
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Antlr3.Runtime.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\EntityFramework.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\EntityFramework.SqlServer.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.Agent.Intercept.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.DependencyCollector.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.Web.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.WindowsServer.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.ApplicationInsights.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.Web.Infrastructure.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Newtonsoft.Json.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Helpers.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Mvc.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Optimization.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Razor.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.WebPages.Deployment.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.WebPages.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.WebPages.Razor.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\WebGrease.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\EntityFramework.xml
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\EntityFramework.SqlServer.xml
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Helpers.xml
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Mvc.xml
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Razor.xml
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.WebPages.xml
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.WebPages.Deployment.xml
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.WebPages.Razor.xml
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Optimization.xml
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Antlr3.Runtime.pdb
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Newtonsoft.Json.xml
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.ApplicationInsights.xml
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.DependencyCollector.xml
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.WindowsServer.xml
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.Web.xml
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\obj\Debug\VehicleEnquiryTechnicalTest.csproj.CoreCompileInputs.cache
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\obj\Debug\VehicleEnquiryTechnicalTest.csproj.CopyComplete
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\obj\Debug\VehicleEnquiryTechnicalTest.dll
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\obj\Debug\VehicleEnquiryTechnicalTest.pdb
+D:\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\obj\Debug\VehicleEnquiryTechnicalTest.csprojAssemblyReference.cache
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\obj\Debug\VehicleEnquiryTechnicalTest.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\obj\Debug\VehicleEnquiryTechnicalTest.pdb
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\ApplicationInsights.config
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\VehicleEnquiryTechnicalTest.dll.config
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\VehicleEnquiryTechnicalTest.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\VehicleEnquiryTechnicalTest.pdb
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\csc.exe
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\csc.exe.config
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\csc.rsp
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\csi.exe
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\csi.exe.config
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\csi.rsp
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.AppContext.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Console.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Globalization.Calendars.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.IO.Compression.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.IO.FileSystem.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Net.Http.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Net.Sockets.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.ValueTuple.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Xml.XPath.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\vbc.exe
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\vbc.exe.config
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\vbc.rsp
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\VBCSCompiler.exe
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Antlr3.Runtime.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\EntityFramework.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\EntityFramework.SqlServer.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.Web.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.WindowsServer.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.ApplicationInsights.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Newtonsoft.Json.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Helpers.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Mvc.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Optimization.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Razor.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.WebPages.Deployment.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.WebPages.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.WebPages.Razor.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\WebGrease.dll
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\EntityFramework.xml
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\EntityFramework.SqlServer.xml
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Helpers.xml
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Mvc.xml
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Razor.xml
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.WebPages.xml
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.WebPages.Deployment.xml
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.WebPages.Razor.xml
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Optimization.xml
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Antlr3.Runtime.pdb
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Newtonsoft.Json.xml
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.ApplicationInsights.xml
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.WindowsServer.xml
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.Web.xml
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\obj\Debug\VehicleEnquiryTechnicalTest.csproj.CoreCompileInputs.cache
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\obj\Debug\VehicleEnquiryTechnicalTest.csproj.CopyComplete
+C:\Projects_samples\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\obj\Debug\VehicleEnquiryTechnicalTest.csprojAssemblyReference.cache
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\ApplicationInsights.config
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\VehicleEnquiryTechnicalTest.dll.config
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\VehicleEnquiryTechnicalTest.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\VehicleEnquiryTechnicalTest.pdb
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\csc.exe
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\csc.exe.config
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\csc.rsp
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\csi.exe
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\csi.exe.config
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\csi.rsp
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.Managed.Core.targets
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.AppContext.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Collections.Immutable.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Console.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Globalization.Calendars.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.IO.Compression.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.IO.FileSystem.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Net.Http.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Net.Sockets.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.ValueTuple.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Xml.XmlDocument.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Xml.XPath.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\vbc.exe
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\vbc.exe.config
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\vbc.rsp
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\VBCSCompiler.exe
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\VBCSCompiler.exe.config
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Antlr3.Runtime.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\EntityFramework.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\EntityFramework.SqlServer.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.Agent.Intercept.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.DependencyCollector.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.Web.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.WindowsServer.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.ApplicationInsights.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.Web.Infrastructure.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Newtonsoft.Json.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Helpers.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Mvc.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Optimization.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Razor.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.WebPages.Deployment.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.WebPages.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.WebPages.Razor.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\WebGrease.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\EntityFramework.xml
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\EntityFramework.SqlServer.xml
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Helpers.xml
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Mvc.xml
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Razor.xml
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.WebPages.xml
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.WebPages.Deployment.xml
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.WebPages.Razor.xml
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Optimization.xml
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Antlr3.Runtime.pdb
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Newtonsoft.Json.xml
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.ApplicationInsights.xml
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.DependencyCollector.xml
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.WindowsServer.xml
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.Web.xml
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\obj\Debug\VehicleEnquiryTechnicalTest.csproj.CoreCompileInputs.cache
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\obj\Debug\VehicleEnquiryTechnicalTest.csproj.CopyComplete
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\obj\Debug\VehicleEnquiryTechnicalTest.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\obj\Debug\VehicleEnquiryTechnicalTest.pdb
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\ApplicationInsights.config
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\VehicleEnquiryTechnicalTest.dll.config
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\VehicleEnquiryTechnicalTest.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\VehicleEnquiryTechnicalTest.pdb
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\csc.exe
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\csc.exe.config
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\csc.rsp
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\csi.exe
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\csi.exe.config
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\csi.rsp
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.Managed.Core.targets
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.AppContext.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Collections.Immutable.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Console.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Globalization.Calendars.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.IO.Compression.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.IO.FileSystem.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Net.Http.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Net.Sockets.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.ValueTuple.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Xml.XmlDocument.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Xml.XPath.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\vbc.exe
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\vbc.exe.config
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\vbc.rsp
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\VBCSCompiler.exe
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\roslyn\VBCSCompiler.exe.config
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Antlr3.Runtime.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\EntityFramework.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\EntityFramework.SqlServer.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.Agent.Intercept.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.DependencyCollector.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.Web.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.WindowsServer.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.ApplicationInsights.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.Web.Infrastructure.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Newtonsoft.Json.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Helpers.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Mvc.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Optimization.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Razor.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.WebPages.Deployment.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.WebPages.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.WebPages.Razor.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\WebGrease.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\EntityFramework.xml
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\EntityFramework.SqlServer.xml
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Helpers.xml
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Mvc.xml
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Razor.xml
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.WebPages.xml
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.WebPages.Deployment.xml
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.WebPages.Razor.xml
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\System.Web.Optimization.xml
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Antlr3.Runtime.pdb
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Newtonsoft.Json.xml
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.ApplicationInsights.xml
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.DependencyCollector.xml
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.WindowsServer.xml
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\bin\Microsoft.AI.Web.xml
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\obj\Debug\VehicleEnquiryTechnicalTest.csprojAssemblyReference.cache
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\obj\Debug\VehicleEnquiryTechnicalTest.csproj.CoreCompileInputs.cache
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\obj\Debug\VehicleEnquiryTechnicalTest.csproj.CopyComplete
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\obj\Debug\VehicleEnquiryTechnicalTest.dll
+C:\az-204 RESOURCES\AzureFunctions\wetransfer-676740-completed\VehicleEnquiryTechnicalTest\VehicleEnquiryTechnicalTest\obj\Debug\VehicleEnquiryTechnicalTest.pdb
